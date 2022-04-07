@@ -1,0 +1,23 @@
+peoject #1
+--> cryotocurrency website
+
+--> landing page (homee page)
+
+--> search functionaly. (search input and list of all)
+
+--> details screen, show some sort of price , history chart or something like that.
+
+--> we will be hostimg this. (github pages, netlify/ heroku).
+
+--> html / css / js.
+
+--> coinGeko
+
+--> API -> application programming interface.
+--> an interface using which two peices of software communicate with each other. 
+(it can be server to browser, or even server  to another server).
+
+-->Wireframing -> it is drawing a rough sketch of how the website is going to look. this is 
+an idea about what section of the page we will have.
+
+color pallate--> https://coolors.co/palette/03045e-023e8a-0077b6-0096c7-00b4d8-48cae4-90e0ef-ade8f4-caf0f8
